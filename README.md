@@ -20,6 +20,20 @@ A simple object detection project using YOLO and OpenCV. This project performs r
 - Detecting people, cars, animals, etc. in real-time
 - Applying object detection to video feeds
 
+## 📸 Example Use
+
+Run the notebook, and edit the path in this line:
+
+img = cv2.imread("your-image.jpg")
+
+
+##  Classes (COCO Dataset)
+
+The model can detect 80+ objects like:
+
+person, car, dog, bicycle, traffic light, etc.
+
+
 ---
 
-Created by [Ahmed Al-Mutaz Bellah]
+Created by : Ahmed Al-Mutaz Bellah
